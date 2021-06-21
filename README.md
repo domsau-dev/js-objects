@@ -1,7 +1,18 @@
-#Javascript Masyvai ir Funkcijos
+# Javascript Objektai
 
-1. Sukurkite funkciją, kurią iškvietus masyvą galima papildyti norimu elementu. Informacija paimama iš input laukelio. Funkcija iškviečiama paspaudus mygtuką.
+1. Papildyti paskaitoje aptartą skaičiuotuvo objektą: 
+* Pridėti šaknies bei liekanos skaičiavimo metodus. 
+* Metodas "rezultatas" išvedą rezultatų masyvą. 
+* Papildyti objektą metodu, kuris išvedą visų metodo "rezultatas" masyvo elementų vidurkį.
 
-2. Pasinaudodami ciklu, sukurkite funkciją, kuri traukia kvadratinę šaknį iš skaičiaus.
+2. Susikurti objektų masyvą: 
+* Masyve 100 objekto elementų. 
+* Objekto vidiniai kintamieji: id, vardas. 
+* Vardas reikšmė = vardas1,vardas2 ir t.t.   
+* Id reikšmė = 1, 2 ir t.t.
 
-3. Sukurkite funkciją, kuri mygtuko paspaudimu, sukuria div elementą su klase "elementas-{index}". {index} = elemento numeris
+Papildomai: Pagal sukurtą obejktų masyvą, sukurti tiek pat div elementų, kuriuose išvedamas id ir vardas. Kas antras div - mėlynas.
+
+3. Susikurti objektą "Kvadratas". Objektas turi priimti du kintamuosius: a ir b kraštines. Sukurti du metodus, kurie skaičiuoja kvadrato plotą, perimetrą, įstrižainės ilgį. Informaciją išvesti į <p> žymę.
+
+Papildoma: a ir b kintamieji apibrežia kvadratą pikseliais. Pagal įvestas reikšmes į input, HTML nubraižomas kvadrato numeris
